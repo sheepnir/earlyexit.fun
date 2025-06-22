@@ -52,7 +52,7 @@ The goal of this project is to:
 
 ### 🔧 Week 1: Infrastructure & Static Timer
 
-- [ ] Create `earlyexit.fun` GitHub repo  
+- [X] Create `earlyexit.fun` GitHub repo  
 - [ ] Static HTML + JS countdown to **Aug 12, 2033 @ 12:00 PM**
 - [ ] Initialize AWS Amplify project
 - [ ] Add Cognito-based auth (`amplify add auth`)
