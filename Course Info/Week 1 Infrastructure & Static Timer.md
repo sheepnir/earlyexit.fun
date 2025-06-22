@@ -148,12 +148,3 @@ Once you've completed this setup and practiced the workflow:
 3. **Get comfortable with Cursor**: Make sure you can edit files and use the terminal
 
 Ready for the next step? We'll create the static HTML countdown timer and start setting up AWS Amplify. Let me know when you've completed these steps and want to move on to building the actual countdown timer!
-
-
-
-Retry
-
-
-
-[Claude can make mistakes. 
-Please double-check responses.](https://support.anthropic.com/en/articles/8525154-claude-is-providing-incorrect-or-misleading-responses-what-s-going-on)
